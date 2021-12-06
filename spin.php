@@ -23,7 +23,7 @@
 <?php 
 
 $servername = "localhost";
-    $username = "root";
+    $username = "";
     $password = "";
     $database = "rohit";
 
